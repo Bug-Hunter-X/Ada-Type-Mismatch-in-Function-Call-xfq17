@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada programming: type mismatches.  The `Calculate_Area` function expects integer inputs for both length and width. Attempting to pass a string ("five") will result in a compilation error. This example shows how strong typing in Ada helps prevent runtime errors but requires careful attention to data types.
